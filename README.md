@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mycmd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular6
+this is a base on angular6 and elementui progress
+>>>>>>> e5b025fc7f833651fff53c0e963d02bae0c847b0
